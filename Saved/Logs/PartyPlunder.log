@@ -2393,3 +2393,6 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.02.18-14.05.35:029][246]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
 [2026.02.18-14.05.35:029][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2026.02.18-14.05.35:112][246]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2026.02.18-14.11.39:333][458]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2356.695801
+[2026.02.18-14.11.40:332][461]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-14.11.40:332][461]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2357.362061, Update Interval: 332.837311
