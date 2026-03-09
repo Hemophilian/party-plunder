@@ -2694,3 +2694,68 @@ Sampler Limit: 32
 [2026.03.09-13.08.54:421][816]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10057.667969
 [2026.03.09-13.08.55:419][819]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.03.09-13.08.55:419][819]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10058.333984, Update Interval: 326.657318
+[2026.03.09-13.09.39:759][952]LogUObjectHash: Compacting FUObjectHashTables data took  15.35ms
+[2026.03.09-13.09.42:344][952]LogSlate: Window 'Save Content' being destroyed
+[2026.03.09-13.09.43:275][952]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.09-13.09.43:524][952]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters+Objects/Objects/Palm_Tree/Materials/Material_005] ([1] browsable assets)...
+[2026.03.09-13.09.43:524][952]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters+Objects/Objects/Palm_Tree/Materials/Material_005]
+[2026.03.09-13.09.43:560][952]LogSavePackage: Moving output files for package: /Game/Characters+Objects/Objects/Palm_Tree/Materials/Material_005
+[2026.03.09-13.09.43:560][952]LogSavePackage: Moving '../../../../../../Users/Tommy/Documents/GitHub/party-plunder/Saved/Material_005B070A6B5431F3477A3C8AD9724DEC1C6.tmp' to '../../../../../../Users/Tommy/Documents/GitHub/party-plunder/Content/Characters+Objects/Objects/Palm_Tree/Materials/Material_005.uasset'
+[2026.03.09-13.09.43:567][952]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters+Objects/Objects/Palm_Tree/Materials/Material_009] ([1] browsable assets)...
+[2026.03.09-13.09.43:567][952]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters+Objects/Objects/Palm_Tree/Materials/Material_009]
+[2026.03.09-13.09.43:583][952]LogSavePackage: Moving output files for package: /Game/Characters+Objects/Objects/Palm_Tree/Materials/Material_009
+[2026.03.09-13.09.43:584][952]LogSavePackage: Moving '../../../../../../Users/Tommy/Documents/GitHub/party-plunder/Saved/Material_00992AB3A1D4B33C880C915E7877601F601.tmp' to '../../../../../../Users/Tommy/Documents/GitHub/party-plunder/Content/Characters+Objects/Objects/Palm_Tree/Materials/Material_009.uasset'
+[2026.03.09-13.09.43:610][952]LogFileHelpers: InternalPromptForCheckoutAndSave took 334.381 ms (total: 985.206 ms)
+[2026.03.09-13.09.43:793][952]LogStall: Shutdown...
+[2026.03.09-13.09.43:794][952]LogStall: Shutdown complete.
+[2026.03.09-13.09.43:882][952]LogSlate: Window 'Material_005' being destroyed
+[2026.03.09-13.09.44:338][952]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2026.03.09-13.09.44:343][952]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.09-13.09.44:505][952]LogSlate: Window 'PartyPlunder - Unreal Editor' being destroyed
+[2026.03.09-13.09.44:509][952]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2026.03.09-13.09.45:729][952]LogContentValidation: Display: Starting to validate 2 assets
+[2026.03.09-13.09.45:729][952]LogContentValidation: Enabled validators:
+[2026.03.09-13.09.45:729][952]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.09-13.09.45:729][952]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.09-13.09.45:729][952]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.09-13.09.45:729][952]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.09-13.09.45:729][952]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.09-13.09.45:730][952]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.09-13.09.45:730][952]AssetCheck: /Game/Characters+Objects/Objects/Palm_Tree/Materials/Material_005 Validating asset
+[2026.03.09-13.09.45:730][952]AssetCheck: /Game/Characters+Objects/Objects/Palm_Tree/Materials/Material_009 Validating asset
+[2026.03.09-13.09.45:885][952]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2026.03.09-13.09.45:917][952]Cmd: QUIT_EDITOR
+[2026.03.09-13.09.45:917][953]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.03.09-13.09.45:954][953]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.03.09-13.09.45:964][953]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.03.09-13.09.45:965][953]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.03.09-13.09.46:023][953]LogWorld: UWorld::CleanupWorld for FatKingChase, bSessionEnded=true, bCleanupResources=true
+[2026.03.09-13.09.46:042][953]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.03.09-13.09.46:059][953]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.09-13.09.46:059][953]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FatKingChase.FatKingChase
+[2026.03.09-13.09.46:183][953]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.03.09-13.09.46:187][953]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.03.09-13.09.46:215][953]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.03.09-13.09.46:314][953]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.03.09-13.09.46:314][953]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.09-13.09.46:315][953]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.03.09-13.09.46:315][953]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.09-13.09.46:329][953]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.03.09-13.09.46:329][953]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.09-13.09.46:329][953]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2026.03.09-13.09.46:330][953]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.09-13.09.46:363][953]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.03.09-13.09.46:366][953]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.03.09-13.09.46:384][953]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.03.09-13.09.46:425][953]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.03.09-13.09.46:425][953]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.03.09-13.09.46:426][953]LogAudio: Display: Audio Device unregistered from world 'FatKingChase'.
+[2026.03.09-13.09.46:432][953]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.03.09-13.09.46:446][953]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2026.03.09-13.09.46:461][953]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2026.03.09-13.09.46:504][953]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.03.09-13.09.46:504][953]LogAudio: Display: Audio Device Manager Shutdown
+[2026.03.09-13.09.46:539][953]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.03.09-13.09.46:558][953]LogExit: Preparing to exit.
+[2026.03.09-13.09.46:854][953]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2026.03.09-13.09.48:631][953]LogEditorDataStorage: Deinitializing
