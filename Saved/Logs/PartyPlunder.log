@@ -2759,3 +2759,14 @@ Sampler Limit: 32
 [2026.03.09-13.09.46:558][953]LogExit: Preparing to exit.
 [2026.03.09-13.09.46:854][953]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
 [2026.03.09-13.09.48:631][953]LogEditorDataStorage: Deinitializing
+[2026.03.09-13.09.49:514][953]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.03.09-13.09.50:012][953]LogExit: Editor shut down
+[2026.03.09-13.09.50:073][953]LogExit: Transaction tracking system shut down
+[2026.03.09-13.09.53:059][953]LogExit: Object subsystem successfully closed.
+[2026.03.09-13.09.53:205][953]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.03.09-13.09.54:676][953]LogMemoryProfiler: Shutdown
+[2026.03.09-13.09.54:679][953]LogNetworkingProfiler: Shutdown
+[2026.03.09-13.09.54:679][953]LoadingProfiler: Shutdown
+[2026.03.09-13.09.54:681][953]LogTimingProfiler: Shutdown
+[2026.03.09-13.09.54:701][953]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.03.09-13.09.54:701][953]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
