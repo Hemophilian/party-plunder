@@ -6999,3 +6999,4 @@ FPackageName: Skipped package /Game/Characters+Animations/Char_Dog/Dog_Material/
 [2026.03.10-11.02.35:559][399]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 283...c5c Access[Expires: 2026.03.10-13.02.36 Remaining: 7200.81] Refresh[Expires: 2026-09-05T13:16:23.362Z Remaining: 15473627.36] State: Valid
 [2026.03.10-11.02.36:225][401]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.03.10-11.02.36:225][401]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 75507.382812, Update Interval: 312.281250
+[2026.03.10-11.05.03:404][837]LogDerivedDataCache: C:/Users/Tommy/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.003 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
