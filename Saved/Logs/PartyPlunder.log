@@ -7000,3 +7000,225 @@ FPackageName: Skipped package /Game/Characters+Animations/Char_Dog/Dog_Material/
 [2026.03.10-11.02.36:225][401]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.03.10-11.02.36:225][401]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 75507.382812, Update Interval: 312.281250
 [2026.03.10-11.05.03:404][837]LogDerivedDataCache: C:/Users/Tommy/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.003 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.03.10-11.08.13:959][403]LogPSOHitching: Encountered 100 PSO creation hitches so far (74 graphics, 26 compute). 0 of them were precached.
+[2026.03.10-11.08.15:091][425]LogUObjectHash: Compacting FUObjectHashTables data took  13.57ms
+[2026.03.10-11.08.16:799][425]LogSlate: Window 'Save Content' being destroyed
+[2026.03.10-11.08.16:890][425]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.10-11.08.17:101][425]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters+Objects/Objects/Black_001] ([1] browsable assets)...
+[2026.03.10-11.08.17:101][425]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters+Objects/Objects/Black_001]
+[2026.03.10-11.08.17:132][425]LogSavePackage: Moving output files for package: /Game/Characters+Objects/Objects/Black_001
+[2026.03.10-11.08.17:133][425]LogSavePackage: Moving '../../../../../../Users/Tommy/Documents/GitHub/party-plunder/Saved/Black_001A59DE69E488CD686B058908D24AF6C4F.tmp' to '../../../../../../Users/Tommy/Documents/GitHub/party-plunder/Content/Characters+Objects/Objects/Black_001.uasset'
+[2026.03.10-11.08.17:143][425]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/DatasmithContent/Materials/FBXImporter/VRED/BrushedMetal] ([1] browsable assets)...
+[2026.03.10-11.08.17:144][425]OBJ SavePackage: Finished generating thumbnails for package [/DatasmithContent/Materials/FBXImporter/VRED/BrushedMetal]
+[2026.03.10-11.08.17:144][425]Cmd: OBJ SAVEPACKAGE PACKAGE="/DatasmithContent/Materials/FBXImporter/VRED/BrushedMetal" FILE="../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/BrushedMetal.uasset" SILENT=true
+[2026.03.10-11.08.17:179][425]LogSavePackage: Moving output files for package: /DatasmithContent/Materials/FBXImporter/VRED/BrushedMetal
+[2026.03.10-11.08.17:181][425]LogSavePackage: Moving '../../../../../../Users/Tommy/Documents/GitHub/party-plunder/Saved/BrushedMetal4244C2E642C4DCEF52DDF2A7A6D31906.tmp' to '../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/BrushedMetal.uasset'
+[2026.03.10-11.08.17:183][425]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters+Objects/Objects/Cannon/CANNNON_Ball] ([1] browsable assets)...
+[2026.03.10-11.08.17:183][425]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters+Objects/Objects/Cannon/CANNNON_Ball]
+[2026.03.10-11.08.17:203][425]LogSavePackage: Moving output files for package: /Game/Characters+Objects/Objects/Cannon/CANNNON_Ball
+[2026.03.10-11.08.17:203][425]LogSavePackage: Moving '../../../../../../Users/Tommy/Documents/GitHub/party-plunder/Saved/CANNNON_BallD1443D3449D3CDB787D618AE6E59A343.tmp' to '../../../../../../Users/Tommy/Documents/GitHub/party-plunder/Content/Characters+Objects/Objects/Cannon/CANNNON_Ball.uasset'
+[2026.03.10-11.08.17:208][425]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters+Objects/Objects/Chest_Anim] ([1] browsable assets)...
+[2026.03.10-11.08.17:208][425]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters+Objects/Objects/Chest_Anim]
+[2026.03.10-11.08.17:226][425]LogSavePackage: Moving output files for package: /Game/Characters+Objects/Objects/Chest_Anim
+[2026.03.10-11.08.17:227][425]LogSavePackage: Moving '../../../../../../Users/Tommy/Documents/GitHub/party-plunder/Saved/Chest_Anim0EF36D7041D5D72571ED65BC311C6500.tmp' to '../../../../../../Users/Tommy/Documents/GitHub/party-plunder/Content/Characters+Objects/Objects/Chest_Anim.uasset'
+[2026.03.10-11.08.17:228][425]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters+Objects/Objects/Chest_PhysicsAsset] ([1] browsable assets)...
+[2026.03.10-11.08.17:228][425]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters+Objects/Objects/Chest_PhysicsAsset]
+[2026.03.10-11.08.17:236][425]LogSavePackage: Moving output files for package: /Game/Characters+Objects/Objects/Chest_PhysicsAsset
+[2026.03.10-11.08.17:237][425]LogSavePackage: Moving '../../../../../../Users/Tommy/Documents/GitHub/party-plunder/Saved/Chest_PhysicsAssetFD8C137F4DA0DE844914488AEA8F7F9F.tmp' to '../../../../../../Users/Tommy/Documents/GitHub/party-plunder/Content/Characters+Objects/Objects/Chest_PhysicsAsset.uasset'
+[2026.03.10-11.08.17:238][425]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters+Objects/Objects/Chest_Skeleton] ([1] browsable assets)...
+[2026.03.10-11.08.17:238][425]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters+Objects/Objects/Chest_Skeleton]
+[2026.03.10-11.08.17:245][425]LogSavePackage: Moving output files for package: /Game/Characters+Objects/Objects/Chest_Skeleton
+[2026.03.10-11.08.17:245][425]LogSavePackage: Moving '../../../../../../Users/Tommy/Documents/GitHub/party-plunder/Saved/Chest_SkeletonDF62775F48F8A040C4A193832C378518.tmp' to '../../../../../../Users/Tommy/Documents/GitHub/party-plunder/Content/Characters+Objects/Objects/Chest_Skeleton.uasset'
+[2026.03.10-11.08.17:249][425]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Engine/EditorLandscapeResources/CircleBrushMaterial] ([1] browsable assets)...
+[2026.03.10-11.08.17:249][425]OBJ SavePackage: Finished generating thumbnails for package [/Engine/EditorLandscapeResources/CircleBrushMaterial]
+[2026.03.10-11.08.17:249][425]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EditorLandscapeResources/CircleBrushMaterial" FILE="../../../Engine/Content/EditorLandscapeResources/CircleBrushMaterial.uasset" SILENT=true
+[2026.03.10-11.08.17:265][425]LogSavePackage: Moving output files for package: /Engine/EditorLandscapeResources/CircleBrushMaterial
+[2026.03.10-11.08.17:266][425]LogSavePackage: Moving '../../../../../../Users/Tommy/Documents/GitHub/party-plunder/Saved/CircleBrushMaterial95B21A5746802CE799BB7FB739CA64C3.tmp' to '../../../Engine/Content/EditorLandscapeResources/CircleBrushMaterial.uasset'
+[2026.03.10-11.08.17:268][425]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters+Objects/Objects/Material_001] ([1] browsable assets)...
+[2026.03.10-11.08.17:268][425]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters+Objects/Objects/Material_001]
+[2026.03.10-11.08.17:279][425]LogSavePackage: Moving output files for package: /Game/Characters+Objects/Objects/Material_001
+[2026.03.10-11.08.17:280][425]LogSavePackage: Moving '../../../../../../Users/Tommy/Documents/GitHub/party-plunder/Saved/Material_001426AA8E34C02CE8320EBB58E88B6F5EB.tmp' to '../../../../../../Users/Tommy/Documents/GitHub/party-plunder/Content/Characters+Objects/Objects/Material_001.uasset'
+[2026.03.10-11.08.17:281][425]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters+Objects/Objects/Material_002] ([1] browsable assets)...
+[2026.03.10-11.08.17:281][425]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters+Objects/Objects/Material_002]
+[2026.03.10-11.08.17:289][425]LogSavePackage: Moving output files for package: /Game/Characters+Objects/Objects/Material_002
+[2026.03.10-11.08.17:289][425]LogSavePackage: Moving '../../../../../../Users/Tommy/Documents/GitHub/party-plunder/Saved/Material_0029BB68BBD4E6AB74C5AC2359110647701.tmp' to '../../../../../../Users/Tommy/Documents/GitHub/party-plunder/Content/Characters+Objects/Objects/Material_002.uasset'
+[2026.03.10-11.08.17:290][425]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters+Objects/Objects/Cannon/Material/Material_003] ([1] browsable assets)...
+[2026.03.10-11.08.17:290][425]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters+Objects/Objects/Cannon/Material/Material_003]
+[2026.03.10-11.08.17:300][425]LogSavePackage: Moving output files for package: /Game/Characters+Objects/Objects/Cannon/Material/Material_003
+[2026.03.10-11.08.17:300][425]LogSavePackage: Moving '../../../../../../Users/Tommy/Documents/GitHub/party-plunder/Saved/Material_003D93987D8413ABFC8026ED0932CEF0C9A.tmp' to '../../../../../../Users/Tommy/Documents/GitHub/party-plunder/Content/Characters+Objects/Objects/Cannon/Material/Material_003.uasset'
+[2026.03.10-11.08.17:302][425]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters+Objects/Objects/Material_003] ([1] browsable assets)...
+[2026.03.10-11.08.17:302][425]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters+Objects/Objects/Material_003]
+[2026.03.10-11.08.17:312][425]LogSavePackage: Moving output files for package: /Game/Characters+Objects/Objects/Material_003
+[2026.03.10-11.08.17:312][425]LogSavePackage: Moving '../../../../../../Users/Tommy/Documents/GitHub/party-plunder/Saved/Material_003F881EC0E4B9014298A4CCC893B7F9971.tmp' to '../../../../../../Users/Tommy/Documents/GitHub/party-plunder/Content/Characters+Objects/Objects/Material_003.uasset'
+[2026.03.10-11.08.17:314][425]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters+Objects/Objects/Palm_Tree/Materials/Material_009] ([1] browsable assets)...
+[2026.03.10-11.08.17:314][425]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters+Objects/Objects/Palm_Tree/Materials/Material_009]
+[2026.03.10-11.08.17:322][425]LogSavePackage: Moving output files for package: /Game/Characters+Objects/Objects/Palm_Tree/Materials/Material_009
+[2026.03.10-11.08.17:323][425]LogSavePackage: Moving '../../../../../../Users/Tommy/Documents/GitHub/party-plunder/Saved/Material_009D45C09B44521C2A24737EB9AE1E82E43.tmp' to '../../../../../../Users/Tommy/Documents/GitHub/party-plunder/Content/Characters+Objects/Objects/Palm_Tree/Materials/Material_009.uasset'
+[2026.03.10-11.08.17:325][425]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters+Objects/Objects/Material_172] ([1] browsable assets)...
+[2026.03.10-11.08.17:325][425]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters+Objects/Objects/Material_172]
+[2026.03.10-11.08.17:332][425]LogSavePackage: Moving output files for package: /Game/Characters+Objects/Objects/Material_172
+[2026.03.10-11.08.17:332][425]LogSavePackage: Moving '../../../../../../Users/Tommy/Documents/GitHub/party-plunder/Saved/Material_1727229E5C9465249AFDE3969A68A487A83.tmp' to '../../../../../../Users/Tommy/Documents/GitHub/party-plunder/Content/Characters+Objects/Objects/Material_172.uasset'
+[2026.03.10-11.08.17:334][425]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/DatasmithContent/Materials/FBXImporter/VRED/MetallicCarpaint] ([1] browsable assets)...
+[2026.03.10-11.08.17:334][425]OBJ SavePackage: Finished generating thumbnails for package [/DatasmithContent/Materials/FBXImporter/VRED/MetallicCarpaint]
+[2026.03.10-11.08.17:356][425]LogSavePackage: Moving output files for package: /DatasmithContent/Materials/FBXImporter/VRED/MetallicCarpaint
+[2026.03.10-11.08.17:356][425]LogSavePackage: Moving '../../../../../../Users/Tommy/Documents/GitHub/party-plunder/Saved/MetallicCarpaint5E57FC1B4F090F71B4A4F9B4C4150B28.tmp' to '../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/MetallicCarpaint.uasset'
+[2026.03.10-11.08.17:360][425]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Fat_King/Obsticles_and_Traps_FatKingChase/QuickSandTrap] ([2] browsable assets)...
+[2026.03.10-11.08.17:362][425]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Fat_King/Obsticles_and_Traps_FatKingChase/QuickSandTrap]
+[2026.03.10-11.08.17:419][425]LogSavePackage: Moving output files for package: /Game/Characters/Fat_King/Obsticles_and_Traps_FatKingChase/QuickSandTrap
+[2026.03.10-11.08.17:419][425]LogSavePackage: Moving '../../../../../../Users/Tommy/Documents/GitHub/party-plunder/Saved/QuickSandTrap5419ADE449CFF0AF4085D5998D054F7C.tmp' to '../../../../../../Users/Tommy/Documents/GitHub/party-plunder/Content/Characters/Fat_King/Obsticles_and_Traps_FatKingChase/QuickSandTrap.uasset'
+[2026.03.10-11.08.17:420][425]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters+Objects/Objects/Rust] ([1] browsable assets)...
+[2026.03.10-11.08.17:420][425]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters+Objects/Objects/Rust]
+[2026.03.10-11.08.17:420][425]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters+Objects/Objects/Rust" FILE="../../../../../../Users/Tommy/Documents/GitHub/party-plunder/Content/Characters+Objects/Objects/Rust.uasset" SILENT=true
+[2026.03.10-11.08.17:429][425]LogSavePackage: Moving output files for package: /Game/Characters+Objects/Objects/Rust
+[2026.03.10-11.08.17:429][425]LogSavePackage: Moving '../../../../../../Users/Tommy/Documents/GitHub/party-plunder/Saved/Rust274C6D714092B528E5C488B73C1CCF9A.tmp' to '../../../../../../Users/Tommy/Documents/GitHub/party-plunder/Content/Characters+Objects/Objects/Rust.uasset'
+[2026.03.10-11.08.17:431][425]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters+Objects/Objects/Palm_Tree/Materials/Wood] ([1] browsable assets)...
+[2026.03.10-11.08.17:431][425]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters+Objects/Objects/Palm_Tree/Materials/Wood]
+[2026.03.10-11.08.17:440][425]LogSavePackage: Moving output files for package: /Game/Characters+Objects/Objects/Palm_Tree/Materials/Wood
+[2026.03.10-11.08.17:440][425]LogSavePackage: Moving '../../../../../../Users/Tommy/Documents/GitHub/party-plunder/Saved/Wood4ED466354421CC63E1FFA5BAD7AC05E4.tmp' to '../../../../../../Users/Tommy/Documents/GitHub/party-plunder/Content/Characters+Objects/Objects/Palm_Tree/Materials/Wood.uasset'
+[2026.03.10-11.08.17:441][425]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters+Objects/Objects/Wood] ([1] browsable assets)...
+[2026.03.10-11.08.17:441][425]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters+Objects/Objects/Wood]
+[2026.03.10-11.08.17:441][425]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters+Objects/Objects/Wood" FILE="../../../../../../Users/Tommy/Documents/GitHub/party-plunder/Content/Characters+Objects/Objects/Wood.uasset" SILENT=true
+[2026.03.10-11.08.17:449][425]LogSavePackage: Moving output files for package: /Game/Characters+Objects/Objects/Wood
+[2026.03.10-11.08.17:449][425]LogSavePackage: Moving '../../../../../../Users/Tommy/Documents/GitHub/party-plunder/Saved/WoodF4404F994A5F60C8F2D505BA21697A59.tmp' to '../../../../../../Users/Tommy/Documents/GitHub/party-plunder/Content/Characters+Objects/Objects/Wood.uasset'
+[2026.03.10-11.08.17:452][425]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters+Objects/Objects/boat] ([1] browsable assets)...
+[2026.03.10-11.08.17:452][425]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters+Objects/Objects/boat]
+[2026.03.10-11.08.17:452][425]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters+Objects/Objects/boat" FILE="../../../../../../Users/Tommy/Documents/GitHub/party-plunder/Content/Characters+Objects/Objects/boat.uasset" SILENT=true
+[2026.03.10-11.08.17:462][425]LogSavePackage: Moving output files for package: /Game/Characters+Objects/Objects/boat
+[2026.03.10-11.08.17:463][425]LogSavePackage: Moving '../../../../../../Users/Tommy/Documents/GitHub/party-plunder/Saved/boat952C2F9D45BF3F647F8152BCA56CF68E.tmp' to '../../../../../../Users/Tommy/Documents/GitHub/party-plunder/Content/Characters+Objects/Objects/boat.uasset'
+[2026.03.10-11.08.17:464][425]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters+Objects/Objects/rum_bottle] ([1] browsable assets)...
+[2026.03.10-11.08.17:464][425]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters+Objects/Objects/rum_bottle]
+[2026.03.10-11.08.17:472][425]LogSavePackage: Moving output files for package: /Game/Characters+Objects/Objects/rum_bottle
+[2026.03.10-11.08.17:472][425]LogSavePackage: Moving '../../../../../../Users/Tommy/Documents/GitHub/party-plunder/Saved/rum_bottle297186014868B9B174D5958667C5729F.tmp' to '../../../../../../Users/Tommy/Documents/GitHub/party-plunder/Content/Characters+Objects/Objects/rum_bottle.uasset'
+[2026.03.10-11.08.17:474][425]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters+Objects/island_Assests/Quicksand/sand] ([1] browsable assets)...
+[2026.03.10-11.08.17:474][425]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters+Objects/island_Assests/Quicksand/sand]
+[2026.03.10-11.08.17:481][425]LogSavePackage: Moving output files for package: /Game/Characters+Objects/island_Assests/Quicksand/sand
+[2026.03.10-11.08.17:481][425]LogSavePackage: Moving '../../../../../../Users/Tommy/Documents/GitHub/party-plunder/Saved/sand20D17CD7471F2D3CEEBC2FA58F835803.tmp' to '../../../../../../Users/Tommy/Documents/GitHub/party-plunder/Content/Characters+Objects/island_Assests/Quicksand/sand.uasset'
+[2026.03.10-11.08.17:484][425]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters+Objects/Objects/shoveel] ([1] browsable assets)...
+[2026.03.10-11.08.17:484][425]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters+Objects/Objects/shoveel]
+[2026.03.10-11.08.17:484][425]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters+Objects/Objects/shoveel" FILE="../../../../../../Users/Tommy/Documents/GitHub/party-plunder/Content/Characters+Objects/Objects/shoveel.uasset" SILENT=true
+[2026.03.10-11.08.17:492][425]LogSavePackage: Moving output files for package: /Game/Characters+Objects/Objects/shoveel
+[2026.03.10-11.08.17:493][425]LogSavePackage: Moving '../../../../../../Users/Tommy/Documents/GitHub/party-plunder/Saved/shoveel64E320DC4654E11330C7A590B305D1D4.tmp' to '../../../../../../Users/Tommy/Documents/GitHub/party-plunder/Content/Characters+Objects/Objects/shoveel.uasset'
+[2026.03.10-11.08.17:509][425]LogFileHelpers: InternalPromptForCheckoutAndSave took 619.649 ms (total: 4.99 sec)
+[2026.03.10-11.08.17:626][425]LogStall: Shutdown...
+[2026.03.10-11.08.17:626][425]LogStall: Shutdown complete.
+[2026.03.10-11.08.17:766][425]LogSlate: Window 'Content Browser' being destroyed
+[2026.03.10-11.08.18:016][425]LogSlate: Window 'PartyPlunder - Unreal Editor' being destroyed
+[2026.03.10-11.08.18:018][425]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2026.03.10-11.08.23:275][425]LogContentValidation: Display: Starting to validate 22 assets
+[2026.03.10-11.08.23:275][425]LogContentValidation: Enabled validators:
+[2026.03.10-11.08.23:275][425]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.10-11.08.23:275][425]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.10-11.08.23:275][425]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.10-11.08.23:275][425]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.10-11.08.23:275][425]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.10-11.08.23:275][425]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.10-11.08.23:279][425]AssetCheck: /Game/Characters+Objects/Objects/Black_001 Validating asset
+[2026.03.10-11.08.23:279][425]AssetCheck: /DatasmithContent/Materials/FBXImporter/VRED/BrushedMetal Validating asset
+[2026.03.10-11.08.23:280][425]AssetCheck: /Game/Characters+Objects/Objects/Cannon/CANNNON_Ball Validating asset
+[2026.03.10-11.08.23:281][425]AssetCheck: /Game/Characters+Objects/Objects/Chest_Anim Validating asset
+[2026.03.10-11.08.23:281][425]AssetCheck: /Game/Characters+Objects/Objects/Chest_PhysicsAsset Validating asset
+[2026.03.10-11.08.23:281][425]AssetCheck: /Game/Characters+Objects/Objects/Chest_Skeleton Validating asset
+[2026.03.10-11.08.23:281][425]AssetCheck: /Engine/EditorLandscapeResources/CircleBrushMaterial Validating asset
+[2026.03.10-11.08.23:281][425]AssetCheck: /Game/Characters+Objects/Objects/Material_001 Validating asset
+[2026.03.10-11.08.23:281][425]AssetCheck: /Game/Characters+Objects/Objects/Material_002 Validating asset
+[2026.03.10-11.08.23:281][425]AssetCheck: /Game/Characters+Objects/Objects/Cannon/Material/Material_003 Validating asset
+[2026.03.10-11.08.23:281][425]AssetCheck: /Game/Characters+Objects/Objects/Material_003 Validating asset
+[2026.03.10-11.08.23:281][425]AssetCheck: /Game/Characters+Objects/Objects/Palm_Tree/Materials/Material_009 Validating asset
+[2026.03.10-11.08.23:281][425]AssetCheck: /Game/Characters+Objects/Objects/Material_172 Validating asset
+[2026.03.10-11.08.23:282][425]AssetCheck: /DatasmithContent/Materials/FBXImporter/VRED/MetallicCarpaint Validating asset
+[2026.03.10-11.08.23:282][425]AssetCheck: /Game/Characters/Fat_King/Obsticles_and_Traps_FatKingChase/QuickSandTrap Validating asset
+[2026.03.10-11.08.23:282][425]AssetCheck: /Game/Characters+Objects/Objects/Rust Validating asset
+[2026.03.10-11.08.23:282][425]AssetCheck: /Game/Characters+Objects/Objects/Palm_Tree/Materials/Wood Validating asset
+[2026.03.10-11.08.23:282][425]AssetCheck: /Game/Characters+Objects/Objects/Wood Validating asset
+[2026.03.10-11.08.23:283][425]AssetCheck: /Game/Characters+Objects/Objects/boat Validating asset
+[2026.03.10-11.08.23:283][425]AssetCheck: /Game/Characters+Objects/Objects/rum_bottle Validating asset
+[2026.03.10-11.08.23:283][425]AssetCheck: /Game/Characters+Objects/island_Assests/Quicksand/sand Validating asset
+[2026.03.10-11.08.23:283][425]AssetCheck: /Game/Characters+Objects/Objects/shoveel Validating asset
+[2026.03.10-11.08.23:291][425]Cmd: QUIT_EDITOR
+[2026.03.10-11.08.23:291][425]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.03.10-11.08.23:295][425]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/Tommy/Documents/GitHub/party-plunder/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.10-11.08.23:321][426]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.03.10-11.08.23:322][426]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.03.10-11.08.23:322][426]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.03.10-11.08.23:330][426]LogWorld: UWorld::CleanupWorld for FatKingChase, bSessionEnded=true, bCleanupResources=true
+[2026.03.10-11.08.23:336][426]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.03.10-11.08.23:340][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.10-11.08.23:340][426]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FatKingChase.FatKingChase
+[2026.03.10-11.08.23:389][426]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.03.10-11.08.23:390][426]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.03.10-11.08.23:396][426]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.03.10-11.08.23:636][426]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2026.03.10-11.08.23:636][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.10-11.08.23:645][426]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2026.03.10-11.08.23:645][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.10-11.08.23:651][426]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2026.03.10-11.08.23:651][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.10-11.08.23:657][426]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2026.03.10-11.08.23:657][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.10-11.08.23:663][426]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2026.03.10-11.08.23:663][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.10-11.08.23:667][426]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2026.03.10-11.08.23:667][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.10-11.08.23:672][426]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2026.03.10-11.08.23:673][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.10-11.08.23:680][426]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2026.03.10-11.08.23:680][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.10-11.08.23:685][426]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2026.03.10-11.08.23:685][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.10-11.08.23:692][426]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2026.03.10-11.08.23:692][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.10-11.08.23:698][426]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2026.03.10-11.08.23:698][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.10-11.08.23:705][426]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2026.03.10-11.08.23:705][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.10-11.08.23:711][426]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.03.10-11.08.23:711][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.10-11.08.23:716][426]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.03.10-11.08.23:716][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.10-11.08.23:723][426]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.03.10-11.08.23:724][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.10-11.08.23:731][426]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2026.03.10-11.08.23:731][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.10-11.08.23:737][426]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2026.03.10-11.08.23:737][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.10-11.08.23:747][426]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.03.10-11.08.23:749][426]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.03.10-11.08.23:754][426]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.03.10-11.08.24:335][426]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.03.10-11.08.24:335][426]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.03.10-11.08.24:335][426]LogAudio: Display: Audio Device unregistered from world 'FatKingChase'.
+[2026.03.10-11.08.24:335][426]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.03.10-11.08.24:338][426]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2026.03.10-11.08.24:341][426]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2026.03.10-11.08.24:380][426]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.03.10-11.08.24:381][426]LogAudio: Display: Audio Device Manager Shutdown
+[2026.03.10-11.08.24:396][426]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.03.10-11.08.24:396][426]LogExit: Preparing to exit.
+[2026.03.10-11.08.25:126][426]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2026.03.10-11.08.25:186][426]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.10-11.08.25:186][426]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.10-11.08.25:191][426]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.10-11.08.25:191][426]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.10-11.08.25:192][426]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.10-11.08.25:192][426]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.10-11.08.25:192][426]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.10-11.08.25:192][426]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.10-11.08.25:192][426]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.10-11.08.25:192][426]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.10-11.08.25:192][426]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.10-11.08.25:192][426]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.10-11.08.25:192][426]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.10-11.08.25:192][426]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.10-11.08.25:192][426]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.10-11.08.25:192][426]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.10-11.08.25:192][426]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.10-11.08.25:192][426]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.10-11.08.25:192][426]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.10-11.08.25:194][426]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.10-11.08.25:194][426]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.10-11.08.26:940][426]LogEditorDataStorage: Deinitializing
+[2026.03.10-11.08.27:610][426]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.03.10-11.08.27:856][426]LogExit: Editor shut down
+[2026.03.10-11.08.27:892][426]LogExit: Transaction tracking system shut down
+[2026.03.10-11.08.29:332][426]LogExit: Object subsystem successfully closed.
+[2026.03.10-11.08.29:412][426]LogShaderCompilers: Display: Shaders left to compile 0
