@@ -1,2 +1,3 @@
-2026/03/09-13:50:17.848 21e8 Creating DB C:/Users/sasha/OneDrive/Documents/GitHub/party-plunder/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2026/03/09-13:50:17.867 21e8 Reusing MANIFEST C:/Users/sasha/OneDrive/Documents/GitHub/party-plunder/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/03/12-17:15:04.119 eec Reusing MANIFEST C:/Users/sasha/OneDrive/Documents/GitHub/party-plunder/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/03/12-17:15:04.129 eec Recovering log #3
+2026/03/12-17:15:04.130 eec Reusing old log C:/Users/sasha/OneDrive/Documents/GitHub/party-plunder/Saved/webcache_4430\Local Storage\leveldb/000003.log 
