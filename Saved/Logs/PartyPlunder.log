@@ -4350,3 +4350,21 @@ Sampler Limit: 32
 [2026.03.16-11.52.59:293][211]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/auth/v1/oauth/token
 [2026.03.16-11.52.59:293][211]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[EOSAuth], OperationName=[TokenGrant], Url=[<Redacted>]
 [2026.03.16-11.52.59:958][212]LogEOSSDK: Warning: LogEOSAnalytics: Unable to get the client auth token. Last result: EOS_NoConnection.
+[2026.03.16-11.53.24:634][286]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 325248.250000
+[2026.03.16-11.53.33:265][541]LogEOSSDK: Warning: LogHttp: 00000205FA0AA200: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2026.03.16-11.53.33:265][541]LogEOSSDK: Warning: LogHttp: 00000205FA0AA200: request failed, libcurl error: 35 (SSL connect error)
+[2026.03.16-11.53.33:265][541]LogEOSSDK: Warning: LogHttp: 00000205FA0AA200: libcurl info message cache 0 (Hostname api.epicgames.dev was found in DNS cache)
+[2026.03.16-11.53.33:265][541]LogEOSSDK: Warning: LogHttp: 00000205FA0AA200: libcurl info message cache 1 (  Trying 104.18.125.108:443...)
+[2026.03.16-11.53.33:265][541]LogEOSSDK: Warning: LogHttp: 00000205FA0AA200: libcurl info message cache 2 (Connected to api.epicgames.dev (104.18.125.108) port 443)
+[2026.03.16-11.53.33:265][541]LogEOSSDK: Warning: LogHttp: 00000205FA0AA200: libcurl info message cache 3 (ALPN: curl offers http/1.1)
+[2026.03.16-11.53.33:265][541]LogEOSSDK: Warning: LogHttp: 00000205FA0AA200: libcurl info message cache 4 (SSL reusing session ID)
+[2026.03.16-11.53.33:265][542]LogEOSSDK: Warning: LogHttp: 00000205FA0AA200: libcurl info message cache 5 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2026.03.16-11.53.33:265][542]LogEOSSDK: Warning: LogHttp: 00000205FA0AA200: libcurl info message cache 6 (Recv failure: Connection was reset)
+[2026.03.16-11.53.33:265][542]LogEOSSDK: Warning: LogHttp: 00000205FA0AA200: libcurl info message cache 7 (OpenSSL SSL_connect: Connection was reset in connection to api.epicgames.dev:443 )
+[2026.03.16-11.53.33:265][542]LogEOSSDK: Warning: LogHttp: 00000205FA0AA200: libcurl info message cache 8 (Closing connection)
+[2026.03.16-11.53.33:265][542]LogEOSSDK: Warning: LogHttp: 00000205FA0AA200: libcurl info message cache 9 (Recv failure: Connection was reset)
+[2026.03.16-11.53.33:265][542]LogEOSSDK: Warning: LogHttp: 00000205FA0AA200: libcurl info message cache 10 (Recv failure: Connection was reset)
+[2026.03.16-11.53.33:265][542]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/auth/v1/oauth/token
+[2026.03.16-11.53.33:265][542]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[EOSAuth], OperationName=[TokenGrant], Url=[<Redacted>]
+[2026.03.16-11.53.33:313][543]LogEOSSDK: Warning: LogEOSAnalytics: Unable to get the client auth token. Last result: EOS_NoConnection.
+[2026.03.16-11.53.33:313][543]LogEOSSDK: Warning: LogEOS: SDK Config Product Update Request Failed, Result Code: EOS_NoConnection, Retrying after 31.123388 seconds
