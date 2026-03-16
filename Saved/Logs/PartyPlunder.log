@@ -4368,3 +4368,108 @@ Sampler Limit: 32
 [2026.03.16-11.53.33:265][542]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[EOSAuth], OperationName=[TokenGrant], Url=[<Redacted>]
 [2026.03.16-11.53.33:313][543]LogEOSSDK: Warning: LogEOSAnalytics: Unable to get the client auth token. Last result: EOS_NoConnection.
 [2026.03.16-11.53.33:313][543]LogEOSSDK: Warning: LogEOS: SDK Config Product Update Request Failed, Result Code: EOS_NoConnection, Retrying after 31.123388 seconds
+[2026.03.16-11.53.46:066][757]LogMaterialEditor: Saving and Compiling material sand87_Mat
+[2026.03.16-11.53.48:387][757]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2026.03.16-11.53.50:644][757]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2026.03.16-11.53.50:682][757]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.16-11.53.51:002][757]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters+Objects/island_Assests/Quicksand/sand87_Mat] ([1] browsable assets)...
+[2026.03.16-11.53.51:261][757]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Characters+Objects/island_Assests/Quicksand/sand87_Mat.sand87_Mat]
+[2026.03.16-11.53.51:261][757]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters+Objects/island_Assests/Quicksand/sand87_Mat]
+[2026.03.16-11.53.51:278][757]LogSavePackage: Moving output files for package: /Game/Characters+Objects/island_Assests/Quicksand/sand87_Mat
+[2026.03.16-11.53.51:278][757]LogSavePackage: Moving '../../../../../../Users/Tommy/Documents/GitHub/party-plunder/Saved/sand87_MatB395DC9F45BD34F52265429C1C760AE4.tmp' to '../../../../../../Users/Tommy/Documents/GitHub/party-plunder/Content/Characters+Objects/island_Assests/Quicksand/sand87_Mat.uasset'
+[2026.03.16-11.53.51:319][757]LogFileHelpers: InternalPromptForCheckoutAndSave took 637.545 ms
+[2026.03.16-11.53.51:639][757]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.16-11.53.51:639][757]LogContentValidation: Enabled validators:
+[2026.03.16-11.53.51:642][757]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.16-11.53.51:642][757]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.16-11.53.51:642][757]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.16-11.53.51:642][757]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.16-11.53.51:642][757]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.16-11.53.51:642][757]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.16-11.53.51:647][757]AssetCheck: /Game/Characters+Objects/island_Assests/Quicksand/sand87_Mat Validating asset
+[2026.03.16-11.53.51:690][757]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/Tommy/Documents/GitHub/party-plunder/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.16-11.53.54:059][823]LogSlate: Window 'Message' being destroyed
+[2026.03.16-11.53.54:077][823]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Characters+Objects/island_Assests/Quicksand/quicksandretry.quicksandretry
+(Selecting 'No' will cause all changes to be lost!)
+[2026.03.16-11.53.54:158][823]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2026.03.16-11.53.55:191][823]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2026.03.16-11.53.55:244][823]LogSlate: Window 'sand87_Mat' being destroyed
+[2026.03.16-11.53.55:258][823]LogSlate: Window 'sand87_Mat' being destroyed
+[2026.03.16-11.53.55:335][823]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2026.03.16-11.53.55:342][823]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.16-11.53.55:453][823]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2026.03.16-11.53.55:453][823]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.16-11.53.55:604][823]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2026.03.16-11.53.56:471][860]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2026.03.16-11.53.57:480][860]LogSlate: Window 'Save Content' being destroyed
+[2026.03.16-11.53.57:527][860]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.16-11.53.58:342][860]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters+Objects/island_Assests/Quicksand/quicksandretry] ([1] browsable assets)...
+[2026.03.16-11.53.58:470][860]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Characters+Objects/island_Assests/Quicksand/quicksandretry.quicksandretry]
+[2026.03.16-11.53.58:470][860]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters+Objects/island_Assests/Quicksand/quicksandretry]
+[2026.03.16-11.53.58:479][860]LogSavePackage: Moving output files for package: /Game/Characters+Objects/island_Assests/Quicksand/quicksandretry
+[2026.03.16-11.53.58:479][860]LogSavePackage: Moving '../../../../../../Users/Tommy/Documents/GitHub/party-plunder/Saved/quicksandretryA54D1B9A4C28971892DDC78F2B57FBF7.tmp' to '../../../../../../Users/Tommy/Documents/GitHub/party-plunder/Content/Characters+Objects/island_Assests/Quicksand/quicksandretry.uasset'
+[2026.03.16-11.53.58:482][860]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters+Objects/island_Assests/Quicksand/sand87] ([1] browsable assets)...
+[2026.03.16-11.53.58:483][860]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters+Objects/island_Assests/Quicksand/sand87]
+[2026.03.16-11.53.58:491][860]LogSavePackage: Moving output files for package: /Game/Characters+Objects/island_Assests/Quicksand/sand87
+[2026.03.16-11.53.58:491][860]LogSavePackage: Moving '../../../../../../Users/Tommy/Documents/GitHub/party-plunder/Saved/sand876D9A0D704AEBB888D7F78688EFC2FE87.tmp' to '../../../../../../Users/Tommy/Documents/GitHub/party-plunder/Content/Characters+Objects/island_Assests/Quicksand/sand87.uasset'
+[2026.03.16-11.53.58:512][860]LogFileHelpers: InternalPromptForCheckoutAndSave took 984.869 ms (total: 1.62 sec)
+[2026.03.16-11.53.58:621][860]LogStall: Shutdown...
+[2026.03.16-11.53.58:622][860]LogStall: Shutdown complete.
+[2026.03.16-11.53.58:714][860]LogSlate: Window 'PartyPlunder - Unreal Editor' being destroyed
+[2026.03.16-11.53.58:717][860]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2026.03.16-11.53.59:244][860]LogContentValidation: Display: Starting to validate 2 assets
+[2026.03.16-11.53.59:244][860]LogContentValidation: Enabled validators:
+[2026.03.16-11.53.59:244][860]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.16-11.53.59:244][860]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.16-11.53.59:244][860]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.16-11.53.59:244][860]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.16-11.53.59:244][860]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.16-11.53.59:244][860]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.16-11.53.59:244][860]AssetCheck: /Game/Characters+Objects/island_Assests/Quicksand/quicksandretry Validating asset
+[2026.03.16-11.53.59:245][860]AssetCheck: /Game/Characters+Objects/island_Assests/Quicksand/sand87 Validating asset
+[2026.03.16-11.53.59:247][860]Cmd: QUIT_EDITOR
+[2026.03.16-11.53.59:247][860]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.03.16-11.53.59:249][860]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/Tommy/Documents/GitHub/party-plunder/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.16-11.53.59:266][861]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.03.16-11.53.59:272][861]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.03.16-11.53.59:272][861]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.03.16-11.53.59:301][861]LogWorld: UWorld::CleanupWorld for FatKingChase, bSessionEnded=true, bCleanupResources=true
+[2026.03.16-11.53.59:311][861]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.03.16-11.53.59:315][861]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.16-11.53.59:317][861]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FatKingChase.FatKingChase
+[2026.03.16-11.53.59:408][861]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.03.16-11.53.59:413][861]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.03.16-11.53.59:431][861]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.03.16-11.53.59:502][861]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2026.03.16-11.53.59:502][861]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.16-11.53.59:503][861]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.03.16-11.53.59:503][861]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.16-11.53.59:504][861]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.03.16-11.53.59:504][861]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.16-11.53.59:504][861]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.03.16-11.53.59:504][861]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.16-11.53.59:504][861]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.03.16-11.53.59:504][861]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.16-11.53.59:516][861]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2026.03.16-11.53.59:516][861]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.16-11.53.59:516][861]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2026.03.16-11.53.59:516][861]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.16-11.53.59:532][861]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.03.16-11.53.59:534][861]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.03.16-11.53.59:681][861]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.03.16-11.53.59:704][861]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.03.16-11.53.59:704][861]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.03.16-11.53.59:704][861]LogAudio: Display: Audio Device unregistered from world 'FatKingChase'.
+[2026.03.16-11.53.59:708][861]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.03.16-11.53.59:715][861]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2026.03.16-11.53.59:721][861]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2026.03.16-11.53.59:991][861]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.03.16-11.53.59:991][861]LogAudio: Display: Audio Device Manager Shutdown
+[2026.03.16-11.54.00:187][861]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.03.16-11.54.00:189][861]LogExit: Preparing to exit.
+[2026.03.16-11.54.00:394][861]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2026.03.16-11.54.02:026][861]LogEditorDataStorage: Deinitializing
+[2026.03.16-11.54.02:417][861]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.03.16-11.54.02:586][861]LogExit: Editor shut down
+[2026.03.16-11.54.02:605][861]LogExit: Transaction tracking system shut down
