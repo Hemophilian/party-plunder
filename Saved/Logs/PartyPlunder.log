@@ -10676,3 +10676,6 @@ FPackageName: Skipped package /Game/Fab/Island_Pack_Lite/M_Atlas has a valid, mo
 [2026.03.18-14.08.32:089][378]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
 [2026.03.18-14.08.32:089][378]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
 [2026.03.18-14.08.32:093][378]LogPakFile: Destroying PakPlatformFile
+[2026.03.18-14.08.35:166][378]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.03.18-14.08.35:387][378]LogExit: Exiting.
+[2026.03.18-14.08.35:480][378]Log file closed, 03/18/26 14:08:35
