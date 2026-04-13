@@ -5,49 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-<<<<<<< HEAD
-				"C:/Users/sasha/OneDrive/Documents/GitHub/party-plunder/Content/Oh_Ship/3D_Stuff/standardSurface2.uasset",
-				"C:/Users/sasha/OneDrive/Documents/GitHub/party-plunder/Content/Oh_Ship/3D_Stuff/openPBR_shader1.uasset",
-				"C:/Users/sasha/OneDrive/Documents/GitHub/party-plunder/Content/Oh_Ship/3D_Stuff/rampShader1.uasset",
-				"C:/Users/sasha/OneDrive/Documents/GitHub/party-plunder/Content/Oh_Ship/3D_Stuff/rampShader2.uasset",
-				"C:/Users/sasha/OneDrive/Documents/GitHub/party-plunder/Content/Oh_Ship/3D_Stuff/rampShader3.uasset",
+				"C:/Users/sasha/OneDrive/Documents/GitHub/party-plunder/Content/Oh_Ship/3D_Stuff/phongE1.uasset",
 				"C:/Users/sasha/OneDrive/Documents/GitHub/party-plunder/Content/Oh_Ship/Oh_Ship.umap",
-				"C:/Users/sasha/OneDrive/Documents/GitHub/party-plunder/Content/Oh_Ship/2D_stuff/SeaSerpent_Mat.uasset",
-				"C:/Users/sasha/OneDrive/Documents/GitHub/party-plunder/Content/Oh_Ship/2D_stuff/BlueSHip.uasset",
-				"C:/Users/sasha/OneDrive/Documents/GitHub/party-plunder/Content/Oh_Ship/3D_Stuff/Combined_Carnival.uasset",
-				"C:/Users/sasha/OneDrive/Documents/GitHub/party-plunder/Content/Oh_Ship/2D_stuff/GreenShip.uasset",
-				"C:/Users/sasha/OneDrive/Documents/GitHub/party-plunder/Content/Characters+Objects/island_Assests/Tornado/NS_Torando.uasset",
-				"C:/Users/sasha/OneDrive/Documents/GitHub/party-plunder/Content/Oh_Ship/2D_stuff/RedShip.uasset",
-				"C:/Users/sasha/OneDrive/Documents/GitHub/party-plunder/Content/Oh_Ship/2D_stuff/SeaSerpent.uasset",
-				"C:/Users/sasha/OneDrive/Documents/GitHub/party-plunder/Content/Oh_Ship/3D_Stuff/Target.uasset",
-				"C:/Users/saman/OneDrive/Documents/GitHub/party-plunder/Content/TopDown/Blueprints/FatKingChase_Blueprints/Music/ebunny-pirate-jolly-roger-loop-369969.uasset",
-				"C:/Users/saman/OneDrive/Documents/GitHub/party-plunder/Content/TopDown/Blueprints/FatKingChase_Blueprints/BP_FK_Player4.uasset",
-				"C:/Users/saman/OneDrive/Documents/GitHub/party-plunder/Content/TopDown/Blueprints/FatKingChase_Blueprints/BP_FK_Player3.uasset",
-				"C:/Users/saman/OneDrive/Documents/GitHub/party-plunder/Content/TopDown/Blueprints/FatKingChase_Blueprints/BP_FK_Player2.uasset",
-				"C:/Users/saman/OneDrive/Documents/GitHub/party-plunder/Content/TopDown/Blueprints/FatKingChase_Blueprints/BP_FK_Player1.uasset",
-				"C:/Users/saman/OneDrive/Documents/GitHub/party-plunder/Content/__ExternalActors__/FatKingChase/5/AQ/YFITDPKJ2QHU6RCPD42R9Q.uasset",
-				"C:/Users/saman/OneDrive/Documents/GitHub/party-plunder/Content/__ExternalActors__/FatKingChase/1/JU/IARORKC8X2T8VK0XEOPI05.uasset",
-				"C:/Users/saman/OneDrive/Documents/GitHub/party-plunder/Content/TopDown/Blueprints/FatKingChase_Blueprints/BP_TopDownCharacter.uasset",
-				"C:/Users/saman/OneDrive/Documents/GitHub/party-plunder/Content/__ExternalActors__/FatKingChase/5/UW/NBB99TK6IFE8QWK2MDBRR4.uasset",
-				"C:/Users/saman/OneDrive/Documents/GitHub/party-plunder/Content/__ExternalActors__/FatKingChase/C/MW/S8KFZXRQHB3Y30L4SI4XAK.uasset",
-				"C:/Users/saman/OneDrive/Documents/GitHub/party-plunder/Content/__ExternalActors__/FatKingChase/E/LG/A5I5WTMYCJD9U3PN65TGJ3.uasset",
-				"C:/Users/saman/OneDrive/Documents/GitHub/party-plunder/Content/__ExternalActors__/FatKingChase/7/0E/BNT2LNHNY3Q2SY39IT87FX.uasset",
-				"C:/Users/saman/OneDrive/Documents/GitHub/party-plunder/Content/Characters/Fat_King/Obsticles_and_Traps_FatKingChase/PortalEntery.uasset",
-				"C:/Users/saman/OneDrive/Documents/GitHub/party-plunder/Content/TopDown/Blueprints/FatKingChase_Blueprints/E_CharacterTypes.uasset",
-				"C:/Users/saman/OneDrive/Documents/GitHub/party-plunder/Content/TopDown/Blueprints/FatKingChase_Blueprints/WBP_Countdown.uasset",
-				"C:/Users/saman/OneDrive/Documents/GitHub/party-plunder/Content/TopDown/Blueprints/FatKingChase_Blueprints/BP_TopDownGameMode.uasset",
-				"C:/Users/saman/OneDrive/Documents/GitHub/party-plunder/Content/Characters/Fat_King/fat_king.uasset",
-				"C:/Users/saman/OneDrive/Documents/GitHub/party-plunder/Content/__ExternalActors__/FatKingChase/D/ZD/LDN2UW5TFAHFEFKFMP01QQ.uasset",
-				"C:/Users/saman/OneDrive/Documents/GitHub/party-plunder/Content/Characters/Fat_King/Obsticles_and_Traps_FatKingChase/BP_Coconut.uasset",
-				"C:/Users/saman/OneDrive/Documents/GitHub/party-plunder/Content/Characters/Fat_King/Obsticles_and_Traps_FatKingChase/BP_Cannonball.uasset",
-				"C:/Users/saman/OneDrive/Documents/GitHub/party-plunder/Content/TopDown/CapitansCall_Cleaning/Characters/BP_CleaningPlayer.uasset",
-				"C:/Users/saman/OneDrive/Documents/GitHub/party-plunder/Content/TopDown/CapitansCall_Cleaning/CapitansCall_CleaningLevel.umap",
-				"C:/Users/saman/OneDrive/Documents/GitHub/party-plunder/Content/TopDown/CapitansCall_Cleaning/BP_CleaningGameMode.uasset"
-=======
-				"C:/Users/Tommy/Documents/GitHub/party-plunder/Content/Oh_Ship/Oh_Ship.umap",
-				"C:/Users/Tommy/Documents/GitHub/party-plunder/Content/Oh_Ship/PlayerCharacters/BP_Cannon.uasset",
-				"C:/Users/Tommy/Documents/GitHub/party-plunder/Content/Characters+Objects/Objects/Cannon/CANNNON_Anim_Montage.uasset"
->>>>>>> f5a4e763f5cf1c3caa9dd9ac8fd0b1a2fd9d21c8
+				"C:/Users/sasha/OneDrive/Documents/GitHub/party-plunder/Content/Oh_Ship/3D_Stuff/target2.uasset",
+				"C:/Users/sasha/OneDrive/Documents/GitHub/party-plunder/Content/TopDown/CapitansCall_Cleaning/CapitansCall_CleaningLevel.umap"
 			]
 		}
 	]
