@@ -1,0 +1,11 @@
+<<<<<<< HEAD
+[0309/150019.908:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0309/150218.741:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0310/110232.044:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0310/110232.056:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0310/110405.271:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0310/110539.929:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0310/110713.090:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+=======
+[0312/171704.338:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+>>>>>>> Capitan's-Call-Cleaning

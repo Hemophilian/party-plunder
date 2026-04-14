@@ -1,11 +1,115 @@
-<<<<<<< HEAD
-[0309/150019.908:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[0309/150218.741:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
-[0310/110232.044:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0310/110232.056:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0310/110405.271:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
-[0310/110539.929:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
-[0310/110713.090:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
-=======
-[0312/171704.338:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
->>>>>>> Capitan's-Call-Cleaning
+[0413/115900.556:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0413/115901.752:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 1
+[0413/120047.302:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/120059.246:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0413/120406.138:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/120549.247:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/120744.677:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/121101.420:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/121254.567:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/121447.656:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/121740.300:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/121931.344:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/122123.645:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/122409.647:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/122609.712:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/122809.498:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/123033.213:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/123224.079:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/123421.094:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/123647.100:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/123837.667:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/124030.073:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/124246.123:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/124433.679:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/124625.751:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/124936.908:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/125124.124:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/125316.947:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/125610.169:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/125805.263:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/130004.456:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/130230.799:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/130424.257:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/130618.802:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/130906.498:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/131106.061:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/131322.446:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/131559.454:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/131812.964:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/132029.347:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/132349.118:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/132547.417:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/132812.206:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/133010.623:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/133216.238:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/133428.891:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/133627.545:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/133829.260:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/134035.762:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/134225.857:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/134420.397:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/134656.123:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/134850.471:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/135046.485:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/135309.809:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/135503.696:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/135648.494:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/135858.729:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/140048.073:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/140241.270:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/140512.174:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/140700.643:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/140851.763:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/141152.114:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/141351.716:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/141553.206:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/141837.933:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/142038.109:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/142240.749:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/142518.779:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/142713.622:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/142914.352:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/143154.303:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/143352.063:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/143555.910:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/143809.142:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/144015.546:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/144224.601:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/144451.564:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/144650.724:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/144851.736:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/145057.053:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/145252.390:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/145452.963:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/145703.956:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/145848.259:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/150033.211:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/150300.411:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/150441.437:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/150628.160:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/150949.205:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/151144.085:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/151354.676:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/151650.271:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/151908.729:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/152133.502:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/152556.950:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/152821.810:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/153135.501:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/153331.860:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/153656.285:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/153844.936:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/154134.966:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/154321.401:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/154509.384:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/154801.719:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/155000.175:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/155158.596:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/155443.405:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0413/155624.253:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0414/043850.089:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0414/043850.089:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0414/043850.143:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0414/043929.632:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0414/043934.643:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
