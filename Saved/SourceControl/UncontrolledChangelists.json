@@ -5,8 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/saman/OneDrive/Documents/GitHub/party-plunder/Content/Characters+Objects/island_Assests/Butterfly.uasset",
-				"C:/Users/saman/OneDrive/Documents/GitHub/party-plunder/Content/Main_Menu/Character_Select.umap",
 				"C:/Users/Tommy/Documents/GitHub/party-plunder/Content/Main_Menu/Character_Select.umap",
 				"C:/Users/Tommy/Documents/GitHub/party-plunder/Content/Characters+Objects/Objects/Lights/BP_Green_Light.uasset",
 				"C:/Users/Tommy/Documents/GitHub/party-plunder/Content/Main_Menu/Character_Select_BP/ButtonIcon-Gamecube-Dpad_Left.uasset",
@@ -14,7 +12,12 @@
 				"C:/Users/Tommy/Documents/GitHub/party-plunder/Content/Characters+Objects/island_Assests/Butterfly_BS.uasset",
 				"C:/Users/Tommy/Documents/GitHub/party-plunder/Content/Characters+Objects/island_Assests/Butterfly_AP.uasset",
 				"C:/Users/Tommy/Documents/GitHub/party-plunder/Content/Characters+Objects/island_Assests/Butterfly.uasset",
-				"C:/Users/Tommy/Documents/GitHub/party-plunder/Content/Characters+Objects/island_Assests/Tornado/NS_Torando.uasset"
+				"C:/Users/Tommy/Documents/GitHub/party-plunder/Content/Characters+Objects/island_Assests/Tornado/NS_Torando.uasset",
+				"C:/Users/Tommy/Documents/GitHub/party-plunder/Content/Characters+Objects/Objects/Lights/BP_Blue_Light.uasset",
+				"C:/Users/Tommy/Documents/GitHub/party-plunder/Content/Characters+Objects/Objects/Lights/BP_Red_Light3.uasset",
+				"C:/Users/Tommy/Documents/GitHub/party-plunder/Content/Characters+Objects/Objects/Lights/BP_White_Light.uasset",
+				"C:/Users/saman/OneDrive/Documents/GitHub/party-plunder/Content/Characters+Objects/island_Assests/Butterfly.uasset",
+				"C:/Users/saman/OneDrive/Documents/GitHub/party-plunder/Content/Main_Menu/Character_Select.umap"
 			]
 		}
 	]
