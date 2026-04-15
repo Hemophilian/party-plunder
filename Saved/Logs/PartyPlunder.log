@@ -1733,3 +1733,11 @@ Sampler Limit: 32
 [2026.04.15-15.11.44:545][696]LogNFORDenoise: NFORDenoise function shutting down
 [2026.04.15-15.11.44:594][696]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
 [2026.04.15-15.11.44:596][696]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B176D9EA1-4213-2AC9-20DA-48B573FABCA1%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=3859bf9c4ca43b58e5a50ebc4b200d94%7C28318287c073437790bea0c836c4ac5c%7C321eba9d-d414-4bd2-95ba-a0ca4b828cc3&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.04.15-15.11.45:198][696]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.04.15-15.11.45:210][696]LogXGEController: Cleaning working directory: C:/Users/Tommy/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2026.04.15-15.11.45:258][696]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2026.04.15-15.11.45:258][696]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2026.04.15-15.11.45:260][696]LogPakFile: Destroying PakPlatformFile
+[2026.04.15-15.11.47:496][696]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.04.15-15.11.47:765][696]LogExit: Exiting.
+[2026.04.15-15.11.47:901][696]Log file closed, 04/15/26 16:11:47
