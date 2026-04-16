@@ -356,16 +356,17 @@ We used a google form for the testing with a QR code for the players to scan, mo
 | User G | PC  | Guided Test | 1   | 4   | "The king kept falling through the map and there should really be multiplayer" |
 | User H | PC  | Guided Test | 1   | 2   | "The collision for the portal trap felt very unclear and I would expect to have multiple players in a level, with players being able to interact and mess with each other" |
 
-*Figure 4: User Testing Data.
 
 Something we were looking into were the chaos mechanics of the game and we were able to infer that players preferred traps that were visual and caused drastic changes to them in game.
 
 ![Pie chart of favorite traps](https://github.com/Hemophilian/party-plunder/blob/main/PlunderPartyScreenshots/Screenshot%202026-04-16%20135442.png)
+
 Figure 24 - Pie chart of feedback on initial traps
 
 We also asked what they would like to see as more trap ideas to add over time, two of the suggestions became the speed up of the whole game near to the end of the timer and the cannonball/coconut throwing at other players.
 
 ![feedback suggestions](https://github.com/Hemophilian/party-plunder/blob/main/PlunderPartyScreenshots/Screenshot%202026-04-16%20135801.png)
+
 Figure 25 - Feedback suggestions for trap ideas
 
 * * *
