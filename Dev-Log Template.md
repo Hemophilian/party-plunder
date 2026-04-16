@@ -8,7 +8,7 @@
 
 **Total Word Count:** \[XXXX]
 
-**API Reference Link:** \[URL]
+**API Reference Link:** \[[URL](https://dev.epicgames.com/documentation/unreal-engine/API)]
 
 **User Guide Link:** \[URL]
 
@@ -52,7 +52,7 @@ Overcooked
 
 The first source is the party game we first looked at, Overcooked, developed by Ghost Town Games Ltd and published by team17, for inspiration and an introduction to me of what a party game looks like, as I haven’t ever played one before or fully understood what the genre consisted of in video games.
 
-[Img of Overcooked]
+![Img of Overcooked](https://www.team17.com/hs-fs/hubfs/Kitchen2-1.jpg?length=2000&name=Kitchen2-1.jpg)
 
 What I learned from Overcooked:
 
@@ -317,7 +317,7 @@ How did you address problems, bugs, or limitations?
 
 * * *
 
-## Testing *(Approx. 10–15% of word count)*
+## Testing 
 
 ### What testing methods did you use?
 
