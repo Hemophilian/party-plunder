@@ -172,7 +172,7 @@ The timer was created with widgets and a game mode which was then used across al
 
 ![Img of the timer warning when only a min left](https://github.com/Hemophilian/party-plunder/blob/main/PlunderPartyScreenshots/Screenshot%202026-04-15%20170435.png)
 
-![Img of end of timer](https://github.com/Hemophilian/party-plunder/blob/main/PlunderPartyScreenshots/Screenshot%202026-04-15%20170435.png)
+![Img of end of timer](https://github.com/Hemophilian/party-plunder/blob/main/PlunderPartyScreenshots/Screenshot%202026-04-15%20172015.png)
 
 Now that I had a game that could be played, I was now able to add our ideas to add chaos and fun to the games:
 
