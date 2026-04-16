@@ -238,7 +238,6 @@ The cannonball and coconut were the most unique as the only trap that players co
 ![Scrolling](https://github.com/Hemophilian/party-plunder/blob/main/PlunderPartyScreenshots/Screenshot%202026-04-15%20172645.png)
 ![](https://github.com/Hemophilian/party-plunder/blob/main/PlunderPartyScreenshots/Screenshot%202026-04-15%20172707.png)
 ![](https://github.com/Hemophilian/party-plunder/blob/main/PlunderPartyScreenshots/Screenshot%202026-04-16%20131948.png)
-![](https://github.com/Hemophilian/party-plunder/blob/main/PlunderPartyScreenshots/Screenshot%202026-04-15%20172403.png)
 
 The character selection used the game instance to save a player chosen character across the games but within the games players, their skeletal mesh and animations were chosen at the beginning of the game via assignment to variables; Idle, Walking, etc. This required for their choice to be filtered and assigned based of their number, this number (1-4) equals one of the characters.
 
