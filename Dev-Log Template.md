@@ -237,7 +237,6 @@ The cannonball and coconut were the most unique as the only trap that players co
 
 ![Scrolling](https://github.com/Hemophilian/party-plunder/blob/main/PlunderPartyScreenshots/Screenshot%202026-04-15%20172645.png)
 ![](https://github.com/Hemophilian/party-plunder/blob/main/PlunderPartyScreenshots/Screenshot%202026-04-15%20172707.png)
-![](https://github.com/Hemophilian/party-plunder/blob/main/PlunderPartyScreenshots/Screenshot%202026-04-16%20132004.png)
 ![](https://github.com/Hemophilian/party-plunder/blob/main/PlunderPartyScreenshots/Screenshot%202026-04-16%20131948.png)
 ![](https://github.com/Hemophilian/party-plunder/blob/main/PlunderPartyScreenshots/Screenshot%202026-04-15%20172403.png)
 
