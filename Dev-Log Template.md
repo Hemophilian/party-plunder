@@ -53,6 +53,7 @@ Overcooked
 The first source is the party game we first looked at, Overcooked, developed by Ghost Town Games Ltd and published by team17, for inspiration and an introduction to me of what a party game looks like, as I haven’t ever played one before or fully understood what the genre consisted of in video games.
 
 ![Img of Overcooked](https://www.team17.com/hs-fs/hubfs/Kitchen2-1.jpg?length=2000&name=Kitchen2-1.jpg)
+Figire 1 - Overcooked gameplay
 
 What I learned from Overcooked:
 
@@ -132,12 +133,14 @@ Each of these core mechanics are also the method of gaining points but each game
   * The difference in point gaining/loosing makes it harder for the players and increases the needs to get the king.
 
 ![Img of the king being carried](https://github.com/Hemophilian/party-plunder/blob/main/PlunderPartyScreenshots/Screenshot%202026-04-15%20172112.png)
+Figure 2 - Player holding the King
 
 * Captains Call: Cleaning - The simplest of the three, clean a dirt pile = 1 point.
   
   * This is the only game of the three where the players can't loose points but fact that a dirt pile only appears after one is cleaned (there is a maximum amount allowed at a time) and appears at a random location, it means others can get to it before you.
 
 ![Img of dirt being cleaned](https://github.com/Hemophilian/party-plunder/blob/main/PlunderPartyScreenshots/Screenshot%202026-04-15%20172152.png)
+Figure 3 - Player cleaning
 
 * Oh Ship - The most variety of the three, different targets mean different point gains and hitting the serpent means loosing points (He doesn't like to be hit and will get angry).
   
@@ -150,13 +153,11 @@ Each of these core mechanics are also the method of gaining points but each game
   * Bullseye = 100 points
     
   * The Sea Serpent = All points the player has, and if the game is near the end of the round it can turn the winning player into the last place.
-    
-
-[Img of target being shot at]
 
 After the core mechanics and the point systems were created which allowed a player to win/lose then the round timer was created so the game didn't go on forever and create a sense of panic as the timer came to the end.
 
 ![Img of timer in game](https://github.com/Hemophilian/party-plunder/blob/main/PlunderPartyScreenshots/Screenshot%202026-04-15%20170237.png)
+Figure 4 - Fat King Chase gameplay
 
 The timer was created with widgets and a game mode which was then used across all three without needing to be recreated, just minor changes per game:
 
@@ -171,8 +172,10 @@ The timer was created with widgets and a game mode which was then used across al
   * The winner displayed at the end is the highest number of points or whoever doesn't have 0
 
 ![Img of the timer warning when only a min left](https://github.com/Hemophilian/party-plunder/blob/main/PlunderPartyScreenshots/Screenshot%202026-04-15%20170435.png)
+Figure 5 - Timer warning
 
 ![Img of end of timer](https://github.com/Hemophilian/party-plunder/blob/main/PlunderPartyScreenshots/Screenshot%202026-04-15%20172015.png)
+Figure 6 - Finished Timers
 
 Now that I had a game that could be played, I was now able to add our ideas to add chaos and fun to the games:
 
@@ -212,6 +215,7 @@ After the games were completed the multiplayer and then character selection need
 Then I created the character selection menu, this allowed for the player to choose from the 4 pirates who they wanted to be and then their choice would carry on into the games that they play. The menu was created to mimic a lobby, with each of the characters standing on a pedestal and the different skins (skeletal meshes in this case) could be scrolled through then selected.
 
 ![Img of character selection menu](https://github.com/Hemophilian/party-plunder/blob/main/PlunderPartyScreenshots/Screenshot%202026-04-15%20172221.png)
+Figure 7 -Character Selection Menu
 
 Feedback Received and how it affected production:
 
@@ -226,8 +230,11 @@ Explain:
 * Traps
 
 ![Img(s) of blueprints](https://github.com/Hemophilian/party-plunder/blob/main/PlunderPartyScreenshots/Screenshot%202026-04-15%20172426.png)
+Figure 8 - Cannonball and Coconut Blueprints
 ![portal](https://github.com/Hemophilian/party-plunder/blob/main/PlunderPartyScreenshots/Screenshot%202026-04-15%20172836.png)
+Figure 9 - Stun Trap Logic
 ![portal looks](https://github.com/Hemophilian/party-plunder/blob/main/PlunderPartyScreenshots/Screenshot%202026-04-15%20172825.png)
+Figure 10 - Poratl
 
 The traps main affects were prevent movement for the player via disabling input from the controller for a set amount of time, this function could them be reused with other traps. The sand and mud traps simply tapped into the players max movement speed and slowed it down while in the trap.
 
@@ -236,15 +243,20 @@ The cannonball and coconut were the most unique as the only trap that players co
 * Multiplayer/character assignment/character selection menu
 
 ![Scrolling](https://github.com/Hemophilian/party-plunder/blob/main/PlunderPartyScreenshots/Screenshot%202026-04-15%20172645.png)
+Figure 11 - Scrolling left and right for the character selection
 ![](https://github.com/Hemophilian/party-plunder/blob/main/PlunderPartyScreenshots/Screenshot%202026-04-15%20172707.png)
+Figure 12 - Character selection confirmed
 ![](https://github.com/Hemophilian/party-plunder/blob/main/PlunderPartyScreenshots/Screenshot%202026-04-16%20131948.png)
+Figure 13 - Selection choice to golbal values
 
 The character selection used the game instance to save a player chosen character across the games but within the games players, their skeletal mesh and animations were chosen at the beginning of the game via assignment to variables; Idle, Walking, etc. This required for their choice to be filtered and assigned based of their number, this number (1-4) equals one of the characters.
 
 * Movement and camera change
 
 ![](https://github.com/Hemophilian/party-plunder/blob/main/PlunderPartyScreenshots/Screenshot%202026-04-15%20172403.png)
+Figure 14 - Controller movement
 ![](https://github.com/Hemophilian/party-plunder/blob/main/PlunderPartyScreenshots/Screenshot%202026-04-15%20172631.png)
+Figure 15 - Controller and camera assignment
 
 This project was, regrettably, started in a top down template in unreal, chosen for the top down camera. Later on, needing to assign buttons and controls I had to change the method of movement as the top down template uses a mouse to guide the player using a selection of a target place to move to, this mean creating the player's movement myself.
 
@@ -255,6 +267,7 @@ If these decisions were made earlier, I would have chosen the third person templ
 * Player HUD then Gold display
 
 ![Img(s) of blueprints](https://github.com/Hemophilian/party-plunder/blob/main/PlunderPartyScreenshots/Screenshot%202026-04-15%20172947.png)
+Figure 16 - Incrementing gold to display
 
 At first I used a Player HUD that displayed the point of the player in the corner of the screen but later on with the realities of multiplayer I then created the Gold Display instead. A widget that was assigned to a little way above a players head and updated accordingly as for each players score to kept above them, to lessen possible confusion that could have been with the Player HUD.
 
@@ -272,12 +285,14 @@ Were any methods unfamiliar or experimental? Did they succeed? Did they change y
 This project was the first that I used a switch, I used it in the character selection menu, for the confirmation of a character and saving it to the game instance, and multiplayer in the games, for assigning each players chosen mesh to their character. Using Switch definitely made the process easier, without it the functions would most likely be mush more complicated.
 
 ![Img of Switch in use](https://github.com/Hemophilian/party-plunder/blob/main/PlunderPartyScreenshots/Screenshot%202026-04-16%20132212.png)
+Figure 17 - Using Switch on Int nodes
 
 * Posses
 
 I use posses in the multiplayer for assigning player controllers to the players in the game.
 
 ![](https://github.com/Hemophilian/party-plunder/blob/main/PlunderPartyScreenshots/Screenshot%202026-04-15%20172631.png)
+Figure 18 - Using posses for assigning controllers
 
 * Set view target with blend
 
@@ -288,30 +303,35 @@ This is I used for setting a camera rig as the level camera and assigning it to 
 Using a Game instance for the first time as to hold the global values for the game, the 4 players chosen characters so they can be assigned in game from their choices.
 
 ![Img of node](https://github.com/Hemophilian/party-plunder/blob/main/PlunderPartyScreenshots/Screenshot%202026-04-16%20131948.png)
+Figure 19 - Assigning values to game instance
 
 * Enums
 
 Ive used Enums a few times now for setting a unique type, in this I used an enum to set a characters type of animal for the animation assignment, for whether they were a cat, dog, rat or seagull.
 
 ![Img of node](https://github.com/Hemophilian/party-plunder/blob/main/PlunderPartyScreenshots/Screenshot%202026-04-15%20173035.png)
+Figure 20 - Enum for character types
 
 * Despatch from actor (shockwave)
 
 The despatch from actor I used to create a collision box that appeared from the cannonball/coconut when it hit the ground as to detect is there were any players near as to activate their stun.
 
 ![Img of node](https://github.com/Hemophilian/party-plunder/blob/main/PlunderPartyScreenshots/Screenshot%202026-04-15%20172426.png)
+Figure 21 - Cannonball and coconut shockwaves
 
 * Normalize
 
 I used a normalize node in the calculations for finding and setting a location for the king to be 'thrown' to, this means the king will always be thrown at the same speed.
 
 ![Img of node](https://github.com/Hemophilian/party-plunder/blob/main/PlunderPartyScreenshots/Screenshot%202026-04-15%20173006.png)
+Figure 22 - Using Normalize for throwing the king
 
 * Set timer by function
 
 Using this node for the first time, it became the core of the game timers, operating every second and unlike Event tick, isn't as costly for performance.
 
 ![Img of node](https://github.com/Hemophilian/party-plunder/blob/main/PlunderPartyScreenshots/Screenshot%202026-04-15%20172734.png)
+Figure 23 - Using Set timer by function name for game round timer
 
 ### Did you experience any technical challenges?
 
@@ -341,10 +361,12 @@ We used a google form for the testing with a QR code for the players to scan, mo
 Something we were looking into were the chaos mechanics of the game and we were able to infer that players preferred traps that were visual and caused drastic changes to them in game.
 
 ![Pie chart of favorite traps](https://github.com/Hemophilian/party-plunder/blob/main/PlunderPartyScreenshots/Screenshot%202026-04-16%20135442.png)
+Figure 24 - Pie chart of feedback on initial traps
 
 We also asked what they would like to see as more trap ideas to add over time, two of the suggestions became the speed up of the whole game near to the end of the timer and the cannonball/coconut throwing at other players.
 
 ![feedback suggestions](https://github.com/Hemophilian/party-plunder/blob/main/PlunderPartyScreenshots/Screenshot%202026-04-16%20135801.png)
+Figure 25 - Feedback suggestions for trap ideas
 
 * * *
 
