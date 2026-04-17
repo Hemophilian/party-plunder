@@ -151,8 +151,8 @@ Figure 3 - Player cleaning
 
 After the core mechanics and the point systems were created which allowed a player to win/lose then the round timer was created so the game didn't go on forever and create a sense of panic as the timer came to the end.
 
-![Img of timer in game](https://github.com/Hemophilian/party-plunder/blob/main/PlunderPartyScreenshots/Screenshot%202026-04-15%20170237.png)
-Figure 4 - Fat King Chase gameplay
+![Img of timer in game](https://github.com/Hemophilian/party-plunder/blob/main/PlunderPartyScreenshots/Screenshot%202026-04-17%20163203.png)
+Figure 4 - Early Oh Ship Shooting with aim assist
 
 The timer was created with widgets and a game mode which was then used across all three without needing to be recreated, just minor changes per game:
 
