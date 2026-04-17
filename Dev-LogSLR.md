@@ -334,17 +334,27 @@ How did you address problems, bugs, or limitations?
 
 - Camera
 
+During the beging of trying to change the camera from the one attached to a spring on the player to an overall level camera, I struggled on finding the correct nodes. Using Copiolet I ened up using the node Set view target with blend, this worked assigning a new camera for the player untill I started with the multiplayer where I added the other players into the level and I assgined the controllers due to the order, within the begin play of the level blueprint. The order of which I ened up with that works, I assigned the camera to the first player before assigning all of the controller to the players and assiging the rest of the players to the level camera.
+
 - Spawning
+
+I've had some issues with the different spawning functions I've created, esspesially with the cannonball spawner when adding in the lifespan, the spawner was due to clauses of when the cannonballs were meant to be respawned. Somehow I ended up with an endless ball pit of cannonballs in the level staight from the begining, turns out I just missed connecting some nodes. 
 
 - Proportion sizes for characters to others
 
+This was a simple problem with the importing of the assest created by our designers in which they were very different sizes to what the mechanic had been build with, just the unreal template assests, the only thing this affects were things like carry points, widgets and scene components.
+
 - Capitans call player controlls became inverse
 
-- Dirt spawner
+The cause for this bug is still unknown to me but my suspisions are that it was an accendent during the importing of a level map and it affected the levels axis. Since movement was maually made it was not hard to simply cater the numbers for this inverse to flip things back to how they should be.
 
 - Mute Button and options menus
 
+This is was an error but them became a limitation as I was unable to figure out how to mute the background music, the method for playing the music was in the level itself in the begin play, if we had the time I could have moved the playing for the music to button and siconnected it from the begin play. There were plan at the begining for an options menu that not inly muted the music but volume could be adjusted but this was not achieved due to the time avaible.
+
 - Aiming Beam everything
+
+During the created of the third game, after I had create the cannons shooting via a line trace and added some moving targets in the level, I decided to add in an aim beam to help players. The beam was created and it alligned perfectly with the line trace but the beam grew in both directions, forward towards the targets and also out the back of the cannon. I tried a few things but mostly became very confused with the math and decided to leave it but I added a button for acivating and deactivating so it could be turned of if the player found it to destracting.
 
 * * *
 
