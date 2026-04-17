@@ -58,11 +58,10 @@ Figire 1 - Overcooked gameplay
 What I learned from Overcooked:
 
 * Chaos elements within party games are a part of what is expected but also a part of the fun between co-players.
-  
+
 * Simple controller mechanics are also best/expected, as party games are meant to be played by a group of people but also of different levels of gaming experience, so as not to be unable to be played by people.
-  
+
 * Having changes within the time limit helps boost chaos between players, like changing the timer speed or the landscape/environment.
-  
 
 As a party game, it was useful to introduce the basic expectations of a player to a party video game and the game mechanics/controls from the player view, but also to gain ideas of game mechanics/controls from a developer point of view.
 
@@ -73,11 +72,10 @@ This article defines and explains what the genre of part games is, within the co
 What I learned:
 
 * Game characteristics
-  
+
 * Popular example and why they were successful
-  
+
 * Designed and development challenges
-  
 
 As another source for understand the party game genre, the article helped iron out what I could infer from Overcooked and stated expectations and challenges clearly for understanding in creating party games myself. Unfortunately there were no pirate example of party games to help set a stake as to what could be expected but still helped with setting the bar for a party game in general.
 
@@ -88,11 +86,10 @@ This article explains the importance of game loops and their use in keeping play
 What I learned:
 
 * The 3 layers of game loops
-  
+
 * Breaking down a known game for its game loop
-  
+
 * Why game loops matter
-  
 
 This article helped with getting into the players head by means of getting them interested in the game their playing and trigger a want to play more of the game and to win, which is useful for a party game to build that healthy rivalry between players.
 
@@ -103,9 +100,8 @@ This article on the Unreal Community Wiki is, as it's named, tips for using loca
 What I learned:
 
 * Using a shared camera
-  
+
 * Input mapping specific controllers to specific players
-  
 
 As a whole is document was a useful read for learning but not so much for use in this project, for one I solely used blueprints and despite using a single camera for all players, split screen would have been confusing for our games, I managed to achieve it another way with the assignment of controllers to players.
 
@@ -120,11 +116,10 @@ Planning, Ideation and Iteration:
 For all of the three games the first thing I targeted was the main game mechanic:
 
 * Fat king - Picking up the king + chasing the king around
-  
+
 * Captains Call: Cleaning - Cleaning dirt piles
-  
+
 * Oh Ship - Shooting targets from a cannon
-  
 
 Each of these core mechanics are also the method of gaining points but each game has slightly different side mechanics to make each unique and to increase the difficulty:
 
@@ -145,13 +140,13 @@ Figure 3 - Player cleaning
 * Oh Ship - The most variety of the three, different targets mean different point gains and hitting the serpent means loosing points (He doesn't like to be hit and will get angry).
   
   * Blue Target = 20 points
-    
+  
   * Green Targets = 30 points
-    
+  
   * Red Targets = 40 points
-    
+  
   * Bullseye = 100 points
-    
+  
   * The Sea Serpent = All points the player has, and if the game is near the end of the round it can turn the winning player into the last place.
 
 After the core mechanics and the point systems were created which allowed a player to win/lose then the round timer was created so the game didn't go on forever and create a sense of panic as the timer came to the end.
@@ -164,9 +159,11 @@ The timer was created with widgets and a game mode which was then used across al
 * Fat king - 5min timer, timer speeds up at the last minute
   
   * The winner displayed at the end is the highest number of points or first to 50
+
 * Captains Call: Cleaning - 5min timer, timer speeds up at the last minute
   
   * The winner displayed at the end is the highest number of points
+
 * Oh Ship - 5min timer, timer speeds up at the last minute
   
   * The winner displayed at the end is the highest number of points or whoever doesn't have 0
@@ -182,33 +179,32 @@ Now that I had a game that could be played, I was now able to add our ideas to a
 * Fat king - Traps and Objects
   
   * Being the first game there was the most time to create traps and objects.
-    
+  
   * Portal trap - will send the player to another point on the map, you cannot travel with the king and he will be left were you got teleported from
-    
+  
   * Stun trap (Tornado) - will, unsurpingly, stuns the player for a couple of second and if they were hoping the king they will drop him and he'll run away or get picked up by another player
-    
+  
   * Sand trap - will slow down the player while in the sand but will not affect the king if he's being held by the player
-    
+  
   * Cannonball - can be picked up and thrown, when hitting the floor sends out a shockwave that stuns any player caught in it along with forcing them to drop the king, the cannonball will last for 3 throws before being destroyed from damage
-    
+  
   * Coconut - can be picked up and thrown like the cannonball with a smaller shockwave but will be destroyed from damage after 1 throw and will be respawned under the palm tree
-    
+
 * Captains Call: Cleaning - Traps and Whacking each other with a mop
   
   * Mud trap - like the sand trap it will slow the player wile in the mud
-    
+  
   * Mop Whack - the player is able to hit another with their mop which stuns them for a few seconds, this can be used to steal a dirt pile from them for a point
-    
+
 * Oh Ship - Sea Serpent, Moving Targets, Target Types and shoot speed
   
   * The Sea Serpent - moving among the target, hitting the target will mean the serpent coming out and biting you, depeating you of all your points
-    
+  
   * Moving Targets - the targets move in different routines making their shot harder
-    
+  
   * Target types - the different types means that a player who hits 5 targets quickly could still get less points that someone who hits 2
-    
+  
   * Cannon speed - the cannon doesn't shoot immediately upon fire, like a real cannon that fires once the wik has been lit AND burnt down, there is a delay for the animation play before a shot is fired which means player will need to account for this
-    
 
 After the games were completed the multiplayer and then character selection needed to be done. At first the multiplayer was simply a controller being assigned to one of 4 character that were in the level without choice, this was done quickly to accommodate for user testing.
 
@@ -273,7 +269,6 @@ At first I used a Player HUD that displayed the point of the player in the corne
 
 * Carry points
 
-
 The carry points are the points on the players that I assigned to be where the king and other object would be when being 'carried'. At first there was only one since it was just the fat king but then with the addition of the cannonball and coconut and then the real size of fat kings model. I had to split the two carry points due to the fat king vs the cannonball and coconut sizes being so different, as to make the carrying look the most realistic.
 
 ### What creative or technical methods did you try?
@@ -337,25 +332,38 @@ Figure 23 - Using Set timer by function name for game round timer
 
 How did you address problems, bugs, or limitations?
 
+- Camera
+
+- Spawning
+
+- Proportion sizes for characters to others
+
+- Capitans call player controlls became inverse
+
+- Dirt spawner
+
+- Mute Button and options menus
+
+- Aiming Beam everything
+
 * * *
 
-## Testing 
+## Testing
 
 ### What testing methods did you use?
 
 We used a google form for the testing with a QR code for the players to scan, mostly testers were peers and other students but we did do a couple of internal play through tests from the dev and designers.
 
-| Tester | Platform | Test Type | Bugs Found | Severity (1–5) | Feedback Summary |
-| --- | --- | --- | --- | --- | --- |
-| User A | PC  | Internal (Dev) | 1   | 3   | “Overall things running smooth, the only thing is the pick up mechanic failed a couple of times” |
-| User B | PC  | Internal (Designer) | 1   | 1   | "The King only ran away sometimes" |
-| User C | PC  | Peer Play test | 0   |     | “Everything was great but I would like there to directly sabotage each other” |
-| User D | PC  | Blind Test | 1   | 2   | “The portal trap hit box is to big, I wasn't even standing of it and I got teleported” |
-| User E | PC  | Guided Test | 1   | 3   | “The king ran past the boundaries and off the map” |
-| User F | PC  | Guided Test | 0   |     | “Game works but needs some lively pirate music” |
-| User G | PC  | Guided Test | 1   | 4   | "The king kept falling through the map and there should really be multiplayer" |
-| User H | PC  | Guided Test | 1   | 2   | "The collision for the portal trap felt very unclear and I would expect to have multiple players in a level, with players being able to interact and mess with each other" |
-
+| Tester | Platform | Test Type           | Bugs Found | Severity (1–5) | Feedback Summary                                                                                                                                                           |
+| ------ | -------- | ------------------- | ---------- | -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| User A | PC       | Internal (Dev)      | 1          | 3              | “Overall things running smooth, the only thing is the pick up mechanic failed a couple of times”                                                                           |
+| User B | PC       | Internal (Designer) | 1          | 1              | "The King only ran away sometimes"                                                                                                                                         |
+| User C | PC       | Peer Play test      | 0          |                | “Everything was great but I would like there to directly sabotage each other”                                                                                              |
+| User D | PC       | Blind Test          | 1          | 2              | “The portal trap hit box is to big, I wasn't even standing of it and I got teleported”                                                                                     |
+| User E | PC       | Guided Test         | 1          | 3              | “The king ran past the boundaries and off the map”                                                                                                                         |
+| User F | PC       | Guided Test         | 0          |                | “Game works but needs some lively pirate music”                                                                                                                            |
+| User G | PC       | Guided Test         | 1          | 4              | "The king kept falling through the map and there should really be multiplayer"                                                                                             |
+| User H | PC       | Guided Test         | 1          | 2              | "The collision for the portal trap felt very unclear and I would expect to have multiple players in a level, with players being able to interact and mess with each other" |
 
 Something we were looking into were the chaos mechanics of the game and we were able to infer that players preferred traps that were visual and caused drastic changes to them in game.
 
@@ -399,10 +407,9 @@ I think also targeting the pace of the game would have been a good idea because 
 ## Declared Assets
 
 * Img of controller buttons - _Button Icons_ (s.d.) At: https://consolemods.org/wiki/Category:Button_Icons (Accessed 16/04/2026).
-  
+
 * Background Music - _Pirate Jolly Roger Loop | Royalty-free Music_ (s.d.) At: [Pirate Jolly Roger Loop | Royalty-free Music - Pixabay](https://pixabay.com/music/main-title-pirate-jolly-roger-loop-369969/) (Accessed 16/04/2026).
-  
+
 * Pause Menu Button Sound - from brought sound assets (can't remeber origin, bought on humble bundle)
-  
 
 * * *
