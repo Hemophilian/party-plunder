@@ -352,9 +352,13 @@ The cause for this bug is still unknown to me but my suspisions are that it was 
 
 This is was an error but them became a limitation as I was unable to figure out how to mute the background music, the method for playing the music was in the level itself in the begin play, if we had the time I could have moved the playing for the music to button and siconnected it from the begin play. There were plan at the begining for an options menu that not inly muted the music but volume could be adjusted but this was not achieved due to the time avaible.
 
-- Aiming Beam everything
+- Aiming Beam 
 
 During the created of the third game, after I had create the cannons shooting via a line trace and added some moving targets in the level, I decided to add in an aim beam to help players. The beam was created and it alligned perfectly with the line trace but the beam grew in both directions, forward towards the targets and also out the back of the cannon. I tried a few things but mostly became very confused with the math and decided to leave it but I added a button for acivating and deactivating so it could be turned of if the player found it to destracting.
+
+- The target progressive movement throughout the round
+
+It had been planned that as time moved on the targets would speed up as to be harder to hit, this ultimatly became something I was unable to achieve despite trying, I had a try at several different methods including changing the method of movement twice but the targets still would not progressivly get faster. I had to simply make the targets a reletivly fast pace and inconsistnt so they are hard to hit but do follow a pattern the players can hit with.
 
 * * *
 
