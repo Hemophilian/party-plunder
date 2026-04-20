@@ -16,6 +16,13 @@
 
 **Video Demonstration Link:** \[URL or Embed]
 
+**Task 1:** [Link]((https://github.com/CowLover0987/Task-1-02-02))
+**Task 2:** [Link]((https://github.com/CowLover0987/Task-1-02-02)) (The same repository, different branches)
+**Task 3:** [Link](https://github.com/CowLover0987/Task-3)
+**Task 4:** [Link](https://github.com/CowLover0987/Task4Weeek5)
+**Task 5:** [Link](https://github.com/CowLover0987/Task5Week6)
+**Task 6:** [Link](https://github.com/CowLover0987/Task5Week6/blob/main/Week7TaskProposed%20Build%20%26%20Release%20Pipeline.md)
+
 * * *
 
 ## Abstract
