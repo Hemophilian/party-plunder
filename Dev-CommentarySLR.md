@@ -6,7 +6,7 @@
 
 **Student ID:** 2504124
 
-**Total Word Count:** \[XXXX]
+**Total Word Count:** 4,672
 
 **API Reference Link:** \[[URL](https://dev.epicgames.com/documentation/unreal-engine/API)]
 
